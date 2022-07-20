@@ -1,5 +1,5 @@
 {
-  "name": "react-lazy-image",
+  "name": "react-load-image-lazily",
   "version": "1.0.0",
   "description": "Package to load images on lazy mode",
   "main": "dist/cjs/index.js",
@@ -10,6 +10,11 @@
   },
   "author": "Sagun Karanjit",
   "license": "ISC",
+  "keywords": [
+    "react",
+    "image",
+    "lazy load"
+  ],
   "devDependencies": {
     "@babel/core": "^7.18.9",
     "@rollup/plugin-commonjs": "^22.0.1",
